@@ -11,5 +11,5 @@ let readL () =
     |> List.ofArray
 
 let numb = readL()
-printfn "List of numbers in reverse order: %A" numb
+printfn "List of reciprocal numbers: %A" numb
 
